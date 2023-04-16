@@ -39,4 +39,3 @@ ENV DEBIAN_FRONTEND=dialog
 
 # Expose service ports.
 EXPOSE 8000
-view rawDockerfile hosted with ❤ by GitHub
